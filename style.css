@@ -1,0 +1,5 @@
+body { margin: 0; font-family: Arial, sans-serif; background: linear-gradient(120deg, #0f172a, #1e293b); color: white; }
+.navbar { display: flex; justify-content: space-between; padding: 20px; background: rgba(0,0,0,0.6); }
+.navbar a { color: gold; margin: 0 10px; text-decoration: none; }
+.hero { text-align: center; padding: 120px 20px; }
+.hero button { padding: 12px 25px; background: gold; border: none; cursor: pointer; font-weight: bold; }
